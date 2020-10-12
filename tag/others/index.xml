@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others | My Website</title>
+    <link>https://ineskris.github.io/tag/others/</link>
+      <atom:link href="https://ineskris.github.io/tag/others/index.xml" rel="self" type="application/rss+xml" />
+    <description>Others</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ineskris.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Others</title>
+      <link>https://ineskris.github.io/tag/others/</link>
+    </image>
+    
+    <item>
+      <title>Hodgkin Huxley Model</title>
+      <link>https://ineskris.github.io/project/hodgkinhuxley/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/project/hodgkinhuxley/</guid>
+      <description>&lt;p&gt;The Hodgkin–Huxley model, or conductance-based model, is a mathematical model that describes how action potentials in neurons are initiated and propagated. It is a set of nonlinear differential equations that approximates the electrical characteristics of excitable cells such as neurons and cardiac myocytes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

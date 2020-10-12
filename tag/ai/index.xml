@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI | My Website</title>
+    <link>https://ineskris.github.io/tag/ai/</link>
+      <atom:link href="https://ineskris.github.io/tag/ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ineskris.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>AI</title>
+      <link>https://ineskris.github.io/tag/ai/</link>
+    </image>
+    
+    <item>
+      <title>Next Platform TV</title>
+      <link>https://ineskris.github.io/talk/nextplatform/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/talk/nextplatform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI in health &amp; Care Study group</title>
+      <link>https://ineskris.github.io/talk/manchester/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/talk/manchester/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | My Website</title>
+    <link>https://ineskris.github.io/talk/</link>
+      <atom:link href="https://ineskris.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ineskris.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://ineskris.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Next Platform TV</title>
+      <link>https://ineskris.github.io/talk/nextplatform/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/talk/nextplatform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI in health &amp; Care Study group</title>
+      <link>https://ineskris.github.io/talk/manchester/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/talk/manchester/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetics Analysis in the cloud workshop</title>
+      <link>https://ineskris.github.io/talk/boston/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/talk/boston/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Cloud set up for &lt;a href=&#34;https://hail.is/&#34;&gt; HAIL &lt;/a&gt; usage on your laptop (how to be scalable and cost-effective on the cloud ?).&lt;/li&gt;
+&lt;li&gt;Genomics-Wide Association Studies in 5 steps.&lt;/li&gt;
+&lt;li&gt;Variant discovery, annotation and identification in HAIL.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

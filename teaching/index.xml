@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings | My Website</title>
+    <link>https://ineskris.github.io/teaching/</link>
+      <atom:link href="https://ineskris.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teachings</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ineskris.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Teachings</title>
+      <link>https://ineskris.github.io/teaching/</link>
+    </image>
+    
+    <item>
+      <title>ACS234 Mathematics and Data Modelling (Leader)</title>
+      <link>https://ineskris.github.io/teaching/sheffield6/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/teaching/sheffield6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical Investigation Skills (Assistant)</title>
+      <link>https://ineskris.github.io/teaching/sheffield5/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/teaching/sheffield5/</guid>
+      <description>&lt;p&gt;Mathematical Investigation Skills introduces topics which will be useful throughout students&amp;rsquo; time as undergraduates and beyond. These skills fall into two categories: computer literacy and presentation skills. Various computer packages are introduced in other modules; these share some programming capabilities, and one aim of this module is to develop programming techniques, particularly in Python and R, which will help students to investigate mathematical problems. Students will also meet the typesetting system LaTeX, preparing reports and presentations into mathematical topics. Students will learn how to put together mathematical websites by learning the basics of HTML. Project work forms a large part of the module, with students working in groups on investigative mathematics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathematics for engineer (Leader)</title>
+      <link>https://ineskris.github.io/teaching/sheffield4/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/teaching/sheffield4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Probability and Statistics (Assistant)</title>
+      <link>https://ineskris.github.io/teaching/sheffield2/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/teaching/sheffield2/</guid>
+      <description>&lt;p&gt;The module provides an introduction to the fields of probability and statistics, which form the basis of much of applicable mathematics and operations research. The theory behind probability and statistics will be introduced, along with examples occurring in such diverse areas as medicine, finance, sport, the environment, law and so on. Some of the computational statistical work will make use of the statistics package R.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Computing and Simulation (Assistant)</title>
+      <link>https://ineskris.github.io/teaching/sheffield3/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/teaching/sheffield3/</guid>
+      <description>&lt;p&gt;The module further develops the students’ skills in computer programming and independent investigation. The students will learn how to solve algebraic and differential equations using Python. The students will learn basic numerical methods, and methods to visualize and analyse numerical results. The students will apply the knowledge to explore the physical behaviours of model equations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inference and Computational Inference Course</title>
+      <link>https://ineskris.github.io/teaching/coursesheffield/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/teaching/coursesheffield/</guid>
+      <description>&lt;p&gt;This unit is largely concerned with practical statistical inference. Modern computational tools for the implementation of the frequentist and likelihood-based approaches to inference are explored, with strong emphasis placed on the use of simulation and Monte Carlo methods. Statistical theory is also developed with an introduction to the Bayesian approach to inference and decision making. Computational methods for practical Bayesian inference will also be covered.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Precision Medicine Course</title>
+      <link>https://ineskris.github.io/teaching/courseboston/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/teaching/courseboston/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

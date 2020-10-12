@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Website</title>
+    <link>https://ineskris.github.io/</link>
+      <atom:link href="https://ineskris.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>My Website</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ineskris.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>My Website</title>
+      <link>https://ineskris.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Gaussian Process Summer School</title>
+      <link>https://ineskris.github.io/conference/gpss1/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/conference/gpss1/</guid>
+      <description>&lt;p&gt;The Gaussian Process Summer Schools are a series of schools and workshops aimed at researchers who want to understand and use Gaussian process models, both in theory and practice. The main summer schools are held in Sheffield, UK. But we also have a series of events that take the summer school ‘on tour’ with Gaussian Process Road Shows.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Next Platform TV</title>
+      <link>https://ineskris.github.io/talk/nextplatform/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/talk/nextplatform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalability and cost-effectiveness analysis of whole genome-wide association studies on Google Cloud Platform and Amazon Web Services.</title>
+      <link>https://ineskris.github.io/publication/paper3/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/publication/paper3/</guid>
+      <description>&lt;p&gt;A presentation of the paper is available on &lt;em&gt;Next Platform TV&lt;/em&gt; at &lt;a href=&#34;https://www.nextplatform.com/2020/08/13/next-platform-tv-for-august-13-2020/&#34;&gt;https://www.nextplatform.com/2020/08/13/next-platform-tv-for-august-13-2020/&lt;/a&gt; (33&#39;33&amp;rsquo;&#39;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Women in Machine Learning Un-Workshop</title>
+      <link>https://ineskris.github.io/conference/wiml/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/conference/wiml/</guid>
+      <description>&lt;p&gt;The Women in Machine Learning will be organizing the first “un-workshop” at ICML 2020. The un-workshop is based on the concept of an “un-conference”, a form of discussion on a pre-selected topic that is primarily driven by participants. Different from the workshop, the un-workshop’s main focus is topical breakout sessions, with short invited talks and casual, informal poster presentations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ACS234 Mathematics and Data Modelling (Leader)</title>
+      <link>https://ineskris.github.io/teaching/sheffield6/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/teaching/sheffield6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical Investigation Skills (Assistant)</title>
+      <link>https://ineskris.github.io/teaching/sheffield5/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/teaching/sheffield5/</guid>
+      <description>&lt;p&gt;Mathematical Investigation Skills introduces topics which will be useful throughout students&amp;rsquo; time as undergraduates and beyond. These skills fall into two categories: computer literacy and presentation skills. Various computer packages are introduced in other modules; these share some programming capabilities, and one aim of this module is to develop programming techniques, particularly in Python and R, which will help students to investigate mathematical problems. Students will also meet the typesetting system LaTeX, preparing reports and presentations into mathematical topics. Students will learn how to put together mathematical websites by learning the basics of HTML. Project work forms a large part of the module, with students working in groups on investigative mathematics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathematics for engineer (Leader)</title>
+      <link>https://ineskris.github.io/teaching/sheffield4/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/teaching/sheffield4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Probability and Statistics (Assistant)</title>
+      <link>https://ineskris.github.io/teaching/sheffield2/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/teaching/sheffield2/</guid>
+      <description>&lt;p&gt;The module provides an introduction to the fields of probability and statistics, which form the basis of much of applicable mathematics and operations research. The theory behind probability and statistics will be introduced, along with examples occurring in such diverse areas as medicine, finance, sport, the environment, law and so on. Some of the computational statistical work will make use of the statistics package R.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Computing and Simulation (Assistant)</title>
+      <link>https://ineskris.github.io/teaching/sheffield3/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/teaching/sheffield3/</guid>
+      <description>&lt;p&gt;The module further develops the students’ skills in computer programming and independent investigation. The students will learn how to solve algebraic and differential equations using Python. The students will learn basic numerical methods, and methods to visualize and analyse numerical results. The students will apply the knowledge to explore the physical behaviours of model equations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection Semi-Supervised Framework for Sepsis Treatment.</title>
+      <link>https://ineskris.github.io/publication/paper2/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/publication/paper2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing in Cardiology 2019</title>
+      <link>https://ineskris.github.io/conference/singapour/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/conference/singapour/</guid>
+      <description>&lt;p&gt;Computing in Cardiology (formerly Computers in Cardiology) is an international scientific conference that has been held annually since 1974. CinC provides a forum for scientists and professionals from the fields of medicine, physics, engineering and computer science to discuss their current research in topics pertaining to computing in clinical cardiology and cardiovascular physiology.&lt;/p&gt;
+&lt;p&gt;I presented a poster &amp;ldquo;Anomaly Detection Semi-Supervised Framework for Sepsis Treatment&amp;rdquo; for early detection of Sepsis in response to the &lt;a href=&#34;https://physionet.org/content/challenge-2019/1.0.0/&#34;&gt;PhysioNet Computing in Cardiology Challenge 2019 &lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Summer School 2019</title>
+      <link>https://ineskris.github.io/conference/mllss/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/conference/mllss/</guid>
+      <description>&lt;p&gt;The Machine Learning Summer School (MLSS) is a 12-days event where participants take intensive courses on a variety of topics in machine learning, ranging from optimization and Bayesian inference to deep learning, reinforcement learning and Gaussian processes (see topics). The objective of the MLSS is to give a broad overview of many relevant topics in machine learning and to help training the next generation of machine learning researchers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A generalized statistical framework to assess mixing ability from incomplete mixing designs using binary or higher order variety mixtures and application to wheat.</title>
+      <link>https://ineskris.github.io/publication/conference-paper/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science Africa</title>
+      <link>https://ineskris.github.io/project/dsa/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/project/dsa/</guid>
+      <description>&lt;p&gt;Although microscopes are common in Uganda and other developing countries, a shortage of lab technicians to operate them means that access to quality diagnostic services is limited for much of the population. This leads to misdiagnoses of disease, which in turn causes life-threatening conditions to be incorrectly treated, drug resistance, and the economic burden of buying unnecessary drugs. Even where health facilities have lab technicians, they are often oversubscribed and have difficulty spending enough time on each sample to give a confident diagnosis. Given that smartphones are widely owned across the developing world, there is a technological opportunity to address this problem: phones can be used to capture and process microscopy images. This project aims to produce a functioning point-of-care diagnosis system on this principle, capable of running on multiple microscope and phone combinations. Our work exploits recent technological advances in 3D printing and deep learning to produce effective hardware and software respectively.&lt;/p&gt;
+&lt;p&gt;Step 1: Binary classification problem. You need to implement a machine learning model in order to classify whether a patch is positive or negative.
+Step 2: Regression problem. You need to predict the number of parasites on each image (using model trained on Step 1).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hodgkin Huxley Model</title>
+      <link>https://ineskris.github.io/project/hodgkinhuxley/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/project/hodgkinhuxley/</guid>
+      <description>&lt;p&gt;The Hodgkin–Huxley model, or conductance-based model, is a mathematical model that describes how action potentials in neurons are initiated and propagated. It is a set of nonlinear differential equations that approximates the electrical characteristics of excitable cells such as neurons and cardiac myocytes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI in health &amp; Care Study group</title>
+      <link>https://ineskris.github.io/talk/manchester/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/talk/manchester/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precision Medicine 2019</title>
+      <link>https://ineskris.github.io/conference/precisionmedecine/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/conference/precisionmedecine/</guid>
+      <description>&lt;p&gt;Recent progress in artificial intelligence has been touted as the solution for many of the challenges facing clinicians and patients in diagnosing and treating disease. Concurrently, there is a growing concern about the biases and lapses caused by the use of algorithms that are incompletely understood. Yet precision medicine* requires sifting through millions of individuals measured with thousands of variables: an analysis that defeats human cognitive capabilities. In this conference, we ask the question whether AI can be used effectively to accelerate precision medicine in ways that are safe, non-discriminatory, affordable and in the patient’s best interest. To answer the question, we have three panels and three keynote speakers. The first panel addresses the question of Policy and the Patient: Who’s in Control? We will review the intersection of consent, transparency and regulatory oversight in this very dynamic ethical landscape. The second panel, Is there Value in Prediction?, addresses a widely-shared challenge in medicine, which is to predict the patient’s future, and most importantly, their response to therapy. Can AI actually make a contribution in this area? The third panel on Hyperindividualized Treatments asks the question of how to think about a future that is fast becoming the present, where therapy is “hyper-individualized,” so it is the very uniqueness of your genome that determines your therapy. As always, we have a patient representative for our opening keynote, Matt Might, who returns to this annual conference to discuss the development of an algorithm for conducting precision medicine, through the lens of a personal story: discovering that his child was the first case of a new, ultra-rare genetic disorder. Our midday keynote by Professor Regina Barzilay will guide us through a personal journey from diagnosis to an exciting agenda to increase precision in discovery of cancer treatments and improved delivery of cancer care. Our closing keynote will be given by Jim Tananbaum of Foresite Capital. He is one of the original investors and drivers of Insitro, an AI company that seeks to become a full service therapeutic engine. We hope this conference will create a larger consensus around these still controversial and mostly uncharted questions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genetics Analysis in the cloud workshop</title>
+      <link>https://ineskris.github.io/talk/boston/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/talk/boston/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Cloud set up for &lt;a href=&#34;https://hail.is/&#34;&gt; HAIL &lt;/a&gt; usage on your laptop (how to be scalable and cost-effective on the cloud ?).&lt;/li&gt;
+&lt;li&gt;Genomics-Wide Association Studies in 5 steps.&lt;/li&gt;
+&lt;li&gt;Variant discovery, annotation and identification in HAIL.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhysioNet/Computing in Cardiology Challenge 2019</title>
+      <link>https://ineskris.github.io/project/physionetcomputing-in-cardiology-challenge-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/project/physionetcomputing-in-cardiology-challenge-2019/</guid>
+      <description>&lt;p&gt;Sepsis is a life-threatening condition that occurs when the body&amp;rsquo;s response to infection causes tissue damage, organ failure, or death. In the U.S., nearly 1.7 million people develop sepsis and 270,000 people die from sepsis each year; over one third of people who die in U.S. hospitals have sepsis (CDC). Internationally, an estimated 30 million people develop sepsis and 6 million people die from sepsis each year; an estimated 4.2 million newborns and children are affected (WHO). Sepsis costs U.S. hospitals more than any other health condition at 24 billion dollars a year, and a majority of these costs are for sepsis patients that were not diagnosed at admission. Sepsis costs are even greater globally with the developing world at most risk. Altogether, sepsis is a major public health issue responsible for significant morbidity, mortality, and healthcare expenses.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inference and Computational Inference Course</title>
+      <link>https://ineskris.github.io/teaching/coursesheffield/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/teaching/coursesheffield/</guid>
+      <description>&lt;p&gt;This unit is largely concerned with practical statistical inference. Modern computational tools for the implementation of the frequentist and likelihood-based approaches to inference are explored, with strong emphasis placed on the use of simulation and Monte Carlo methods. Statistical theory is also developed with an introduction to the Bayesian approach to inference and decision making. Computational methods for practical Bayesian inference will also be covered.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Precision Medicine Course</title>
+      <link>https://ineskris.github.io/teaching/courseboston/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/teaching/courseboston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenge Data Societé Generale</title>
+      <link>https://ineskris.github.io/project/data-challenge-sg/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/project/data-challenge-sg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov chains for detection of genetic motifs</title>
+      <link>https://ineskris.github.io/project/markov-chains/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/project/markov-chains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>American Election Analysis (2016)</title>
+      <link>https://ineskris.github.io/project/americanelection/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/project/americanelection/</guid>
+      <description>&lt;p&gt;I have predicted that Hillary Clinton will win :/&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spread of COVID-19</title>
+      <link>https://ineskris.github.io/project/covid19/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/project/covid19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jérome Enjalbert | My Website</title>
+    <link>https://ineskris.github.io/author/jerome-enjalbert/</link>
+      <atom:link href="https://ineskris.github.io/author/jerome-enjalbert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jérome Enjalbert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ineskris.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jérome Enjalbert</title>
+      <link>https://ineskris.github.io/author/jerome-enjalbert/</link>
+    </image>
+    
+    <item>
+      <title>A generalized statistical framework to assess mixing ability from incomplete mixing designs using binary or higher order variety mixtures and application to wheat.</title>
+      <link>https://ineskris.github.io/publication/conference-paper/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

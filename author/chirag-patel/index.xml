@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chirag Patel | My Website</title>
+    <link>https://ineskris.github.io/author/chirag-patel/</link>
+      <atom:link href="https://ineskris.github.io/author/chirag-patel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chirag Patel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ineskris.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Chirag Patel</title>
+      <link>https://ineskris.github.io/author/chirag-patel/</link>
+    </image>
+    
+    <item>
+      <title>Scalability and cost-effectiveness analysis of whole genome-wide association studies on Google Cloud Platform and Amazon Web Services.</title>
+      <link>https://ineskris.github.io/publication/paper3/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/publication/paper3/</guid>
+      <description>&lt;p&gt;A presentation of the paper is available on &lt;em&gt;Next Platform TV&lt;/em&gt; at &lt;a href=&#34;https://www.nextplatform.com/2020/08/13/next-platform-tv-for-august-13-2020/&#34;&gt;https://www.nextplatform.com/2020/08/13/next-platform-tv-for-august-13-2020/&lt;/a&gt; (33&#39;33&amp;rsquo;&#39;).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

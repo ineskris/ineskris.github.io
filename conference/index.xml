@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences | My Website</title>
+    <link>https://ineskris.github.io/conference/</link>
+      <atom:link href="https://ineskris.github.io/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conferences</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ineskris.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Conferences</title>
+      <link>https://ineskris.github.io/conference/</link>
+    </image>
+    
+    <item>
+      <title>Gaussian Process Summer School</title>
+      <link>https://ineskris.github.io/conference/gpss1/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/conference/gpss1/</guid>
+      <description>&lt;p&gt;The Gaussian Process Summer Schools are a series of schools and workshops aimed at researchers who want to understand and use Gaussian process models, both in theory and practice. The main summer schools are held in Sheffield, UK. But we also have a series of events that take the summer school ‘on tour’ with Gaussian Process Road Shows.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Women in Machine Learning Un-Workshop</title>
+      <link>https://ineskris.github.io/conference/wiml/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/conference/wiml/</guid>
+      <description>&lt;p&gt;The Women in Machine Learning will be organizing the first “un-workshop” at ICML 2020. The un-workshop is based on the concept of an “un-conference”, a form of discussion on a pre-selected topic that is primarily driven by participants. Different from the workshop, the un-workshop’s main focus is topical breakout sessions, with short invited talks and casual, informal poster presentations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computing in Cardiology 2019</title>
+      <link>https://ineskris.github.io/conference/singapour/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/conference/singapour/</guid>
+      <description>&lt;p&gt;Computing in Cardiology (formerly Computers in Cardiology) is an international scientific conference that has been held annually since 1974. CinC provides a forum for scientists and professionals from the fields of medicine, physics, engineering and computer science to discuss their current research in topics pertaining to computing in clinical cardiology and cardiovascular physiology.&lt;/p&gt;
+&lt;p&gt;I presented a poster &amp;ldquo;Anomaly Detection Semi-Supervised Framework for Sepsis Treatment&amp;rdquo; for early detection of Sepsis in response to the &lt;a href=&#34;https://physionet.org/content/challenge-2019/1.0.0/&#34;&gt;PhysioNet Computing in Cardiology Challenge 2019 &lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Summer School 2019</title>
+      <link>https://ineskris.github.io/conference/mllss/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/conference/mllss/</guid>
+      <description>&lt;p&gt;The Machine Learning Summer School (MLSS) is a 12-days event where participants take intensive courses on a variety of topics in machine learning, ranging from optimization and Bayesian inference to deep learning, reinforcement learning and Gaussian processes (see topics). The objective of the MLSS is to give a broad overview of many relevant topics in machine learning and to help training the next generation of machine learning researchers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Precision Medicine 2019</title>
+      <link>https://ineskris.github.io/conference/precisionmedecine/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ineskris.github.io/conference/precisionmedecine/</guid>
+      <description>&lt;p&gt;Recent progress in artificial intelligence has been touted as the solution for many of the challenges facing clinicians and patients in diagnosing and treating disease. Concurrently, there is a growing concern about the biases and lapses caused by the use of algorithms that are incompletely understood. Yet precision medicine* requires sifting through millions of individuals measured with thousands of variables: an analysis that defeats human cognitive capabilities. In this conference, we ask the question whether AI can be used effectively to accelerate precision medicine in ways that are safe, non-discriminatory, affordable and in the patient’s best interest. To answer the question, we have three panels and three keynote speakers. The first panel addresses the question of Policy and the Patient: Who’s in Control? We will review the intersection of consent, transparency and regulatory oversight in this very dynamic ethical landscape. The second panel, Is there Value in Prediction?, addresses a widely-shared challenge in medicine, which is to predict the patient’s future, and most importantly, their response to therapy. Can AI actually make a contribution in this area? The third panel on Hyperindividualized Treatments asks the question of how to think about a future that is fast becoming the present, where therapy is “hyper-individualized,” so it is the very uniqueness of your genome that determines your therapy. As always, we have a patient representative for our opening keynote, Matt Might, who returns to this annual conference to discuss the development of an algorithm for conducting precision medicine, through the lens of a personal story: discovering that his child was the first case of a new, ultra-rare genetic disorder. Our midday keynote by Professor Regina Barzilay will guide us through a personal journey from diagnosis to an exciting agenda to increase precision in discovery of cancer treatments and improved delivery of cancer care. Our closing keynote will be given by Jim Tananbaum of Foresite Capital. He is one of the original investors and drivers of Insitro, an AI company that seeks to become a full service therapeutic engine. We hope this conference will create a larger consensus around these still controversial and mostly uncharted questions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
